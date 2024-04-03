@@ -3,7 +3,7 @@
 A low-impact warmup track focused on stretching key muscle groups
 
 | Section | Count | Steps | Coaching points |
-|---------|-------|-------|
+|---------|-------|-------|-----------------|
 | Intro Chorus (0:00) | 16    | Step together. Cue the next section ||
 |         | 16    | Diagonal heel dig, then toe back (half speed, two steps per bar), L||
 |         | 16    | Diagonal heel dig, then toe back (half speed), R||
