@@ -12,11 +12,11 @@ This set has a focus heavy on high-energy 90s numbers. The choice is driven by w
 
 A low-impact warmup track with simple dance moves that stretch muscles in legs, shoulders and torso
 
-## [Freestyler](Choreography/Freestyler.md)
+### [Freestyler](Choreography/Freestyler.md)
 
 A pulse-raising techno track with a gradual introduction
 
-## [Cotton-Eye Joe](Choreography/Cotton_Eye_Joe.md)
+### [Cotton-Eye Joe](Choreography/Cotton_Eye_Joe.md)
 
 Line-dancing, but with bleeps
 
