@@ -6,28 +6,29 @@
 * Step back and slightly behind while same side elbow digs, alternate sides
 * Slow hip rolls, wide stance, both directions 
 
+## Outline
 
 | Section | Count | Steps | Coaching points |
 |---------|-------|-------|-----------------|
-|   |16|||
+|   |16|Hip swing side to side||
 |   |32|||
-|   |32|||
-| 0:40 emphatic |32|||
-| 0:58 chorus|32|||
-|   |32|||
-|1:28|32|||
-|1:48 chorus big|32|||
-||32|||
+|   |32|Combo at half speed||
+| 0:40 emphatic |32|Step back and elbow dig or chop down||
+| 0:58 chorus|32|Combo at half speed||
+|   |32|Combo at full speed||
+|1:28|32|Step back and elbow dig or chop down||
+|1:48 chorus big|32|Combo x4||
+||32|Probably just repeat combo||
 |02:13|32|||
-|02:28 slower|32|||
-|03:00| chorus small| 32|||
-||32|||
-|3:30 repeat |32|||
-|03:47 bass heavy |32|||
-|4:04|32|||
-|reintro theme|32|||
-|hype|32|up-down movement|||
-|04:48|32|elbow dig|||
-|05:03||32|combo|||
+|02:28 slower|32|Step sideways with hip wiggle, arms overhead, circle at elbows. L then R||
+|03:00| chorus small| 32|Combo x4||
+||32|Step back and elbow dig x4||
+|3:30 repeat |32|Either of above||
+|03:47 bass heavy |32|Slow hip circles|very exaggerated|
+|4:04|32|Same hip circles but snappier, pausing on the beat||
+|reintro theme|32|Chop forward and back, switch sides||
+|hype|32|As above but with more performance|Let it go|
+|04:48|32|Combo x4|||
+|05:03||32|Step and elbow dig x4|||
 |05:18 (fadeout)||32|combo|||
 
