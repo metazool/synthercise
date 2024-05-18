@@ -16,12 +16,11 @@ TODO add a hip movement
 |         | 16    | Diagonal heel dig, then toe back (half speed), R||
 |         | 16    | As above but at full speed, (move on every beat) L | Elbows pumping |
 |         | 16    | As above but at full speed, R ||
-|(1:36) slower|32|    |   |
-|(1:52) bleepier|32|    ||
-|(02:02)| 64|   ||
-| (02:40)|  16    | Diagonal heel dig, then toe back, L||
+|(1:36) slower|32|Slow swing of hips side to side, slight circling |   |
+|(1:52) bleepier|32x4| Arms swing, palm front, x8, then overhead, x8 and repeat||
+| (02:40)|  16    | Diagonal heel dig, then toe back, L|Option to start knee raise early|
 |         | 16    | Diagonal heel dig, then toe back, R|Cue options for next repeat|
 |         | 16    | Option of knee raise or stay with heel dig, L||
 |         | 16    | Option of knee raise or stay with heel dig, L||
-|(03:09) bleepier| 32|||
-|(03:25) slower|32|||
+|(03:09) bleepier| 32|Arm swings 8 chest height, 8 overhead|Get low, bend knees when shifting weight|
+|(03:25) slower|32|Hip circles with lots of shoulder movement, general body looseness|Let yourself go|
