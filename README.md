@@ -9,39 +9,55 @@ It's a 40-45 minute chiptune dance fitness workout approachable for beginners, w
 
 This set has a focus heavy on high-energy 90s numbers. The choice is driven by work I could find that's not DRM-encumbered. MP3s of most of the retro tracks were provided by the lovely [Raxlen Slice](https://www.youtube.com/c/RaxlenSlice), the rest are plundered from the [music archives of demozoo](https://demozoo.org/music/)
 
-### SNAP! - Rhythm is a Dancer 
+### [SNAP! - Rhythm is a Dancer](Choreography/Rhythm_is_a_Dancer.md) 
+
+[Youtube - Raxlen Slice](https://www.youtube.com/watch?v=3jSz8uUDd9E)
 
 A low-impact warmup track with simple dance moves that stretch muscles in legs, shoulders and torso
 
 ### [Cotton-Eye Joe](Choreography/Cotton_Eye_Joe.md)
 
+[Youtube - Raxlen Slice](https://www.youtube.com/watch?v=loVp-uSQ_FE)
+
 Line-dancing, but with bleeps
 
 ### [Freestyler](Choreography/Freestyler.md)
+
+[Demozoo - Agemixer](https://demozoo.org/music/287675/)
 
 A pulse-raising techno track with a gradual introduction
 
 ### Eye of the Tiger (Survivor)
 
+[Youtube - Raxlen Slice](https://www.youtube.com/watch?v=gWVggJR0oUI)
+
 A track focused on strength development with boxing moves, introducing some gentle squats and lunges
 
 ### Dance The Night (Due Lipa)
 
+[Youtube - Raxlen Slice](https://www.youtube.com/watch?v=tReoQpxTuyY)
 An upbeat, relaxed track with simplified versions of the movie choreography
 
-### Mortal Kombat Theme [possible]
+### Mortal Kombat Theme 
 
-A high energy track to get the heart working
+[Youtube - Raxlen Slice](https://www.youtube.com/watch?v=KG3ocpZyCSw)
+
+A high energy track to get the heart working, with karate-inspired movements
 
 ### Telephone (Gaga)
 
+[Youtube - Raxlen Slice](https://www.youtube.com/watch?v=LrIoiTLIW6o)
 A recovery track with a lot of waacking-style arm movement
 
 ### Hung Up 
 
-Finest nu-disco pop with combo moves borrowed from the music video
+[Demozoo - Aki and TDM / AY Riders](https://demozoo.org/music/152274/)
+
+Finest nu-disco pop with combo move borrowed from the music video
 
 ### DespaSIDo
+
+[Demozoo - Steel / Genesis Project](https://demozoo.org/music/200368/)
 
 A cooldown track with stretches for different muscle groups 
 
