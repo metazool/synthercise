@@ -12,4 +12,17 @@ A pulse-raising track to use in the second half. Builds on some of the moves fro
 
 ## Outline
 
+|Section|Count|Steps|Coaching points|
+|-------|-----|-----|---------------|
+|Intro|     |Arm movement as in Pinan Godan kata - elbows at 90 degrees, one blocks face, other out to side, switch sides ||
+|Verse|   |Arm movement like the warmup (swings round from side, arm extended) but opposite arm in the head block||
+|Chorus   |   |Chop - bend at waist towards L, with arms at 90 degrees make rapid chopping movement, bending upwards then downwards, repeat other side||
+|   ||Diagonal heel forward, toe back as in warmup, switch sides when it makes sense to|Show options for energy level - stay with heel toe, or add a shin-level forward and back kick balanced on one leg, or kicks but bouncing on the other leg|
+|   ||Chop||
+|   ||Arms with extended arm palm block/strikes, other arm blocking face||
+|   ||Diagonal heel forward, toe back with as much energy as you can summon at this point||
+|   ||Chop||
+|   ||Block/strikes||
+|   ||Chop, with one extra on the end||
+ 
 

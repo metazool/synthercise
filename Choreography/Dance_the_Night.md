@@ -2,7 +2,7 @@
 
 A relaxed dance track to use after a workout track, with simplified choreography adapted from the popular film version
 
-Borrowed moves
+Borrowed moves to potentially use:
 
 * Turn L, circle arm at shoulder twice (option to keep arm bent), repeat R
 * As above but arm swing up and down (forwards), turn face on and move arms in heart shape, twice
@@ -15,8 +15,8 @@ Borrowed moves
 |-------|-----|-----|---------------|
 |Intro |16|Step-touch|Move like you're posable|
 |Verse (0:09)|32|Moonwalk||
-|Break (0:26)|16+12|Speedball||
-|Chorus (0:41)|32+4|Cheek dab but slow, heart arms||
+|Break (0:26)|16+12|Step touch, swing arms at elbow||
+|Chorus (0:41)|32+4|Cheek dab but slow, heart arms |On repetition of heart arms include "fast feet"|
 |Verse (1:00)|32+12|Moonwalk - Double clap at 16, 32||
 |Chorus (1:24)|32+4|Cheek dab, heart arms||
 |repeats|32+4|Arm swings||

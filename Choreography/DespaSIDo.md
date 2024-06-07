@@ -14,10 +14,10 @@ A reggaeton-style cooldown and stretch track
 
 This basically goes on in blocks of 16 count until arbitrarily stopping. Alternate the stretches above, with blocks of crab walk steps, as the music suggests. Doesn't have to line up completely. Try to time it for a freestyle bit at the end, people can let go.
 
-|Intro|16|||
-||16|||
-|change 0.26|16|||
-|bass back 0:38|16|||
-|0:44||||
-|1:04 chorus||||
-| etc||||
+|Intro|16|Crab walk||
+||16|Sideways lunge stretch||
+|change 0.26|16|Crab walk||
+|bass back 0:38|16|Calf stretch then hamstring stretch, repeat other side||
+|0:44||Crab walk||
+|1:04 chorus||Shoulder stretch and tricep stretch||
+| etc||Let it all hang loose||

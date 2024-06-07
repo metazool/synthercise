@@ -15,12 +15,12 @@
 |   |32|Combo at half speed||
 | 0:40 emphatic |32|Combo at half speed, more bounce||
 | 0:58 chorus|64|Combo at full speed||
-|1:28|32|Step back and elbow dig or chop down||
+|1:28|32|Step back and chop down|Relaxed or sharp, depends how people feel|
 |1:48 chorus big|32|Combo x4||
 ||32|Either repeat combo, or elbow dig or chop down||
 |02:13|32|Either of above||
-|02:28 slower|64|Step sideways with hip wiggle, arms overhead, circle at elbows. L then R|Demonstrate arms in front option for less heartrate|
-|03:00| chorus small| 32|Combo x4|First one, or all half speed if people have struggled|
+|02:28 slower|64|Step sideways with slight hip thrust, arms overhead, circle at elbows. L then R|Demonstrate arms in front option for less heartrate|
+|03:00| chorus small| 32|Combo x4|First one half speed, or all half speed if people have struggled|
 ||32|Step back and elbow dig x4||
 |3:30 repeat |32|Either of above||
 |03:47 bass heavy |32|Slow hip circles, 4 each direction|very exaggerated|
