@@ -5,7 +5,7 @@ Synthercise is an 8-bit dance fitness programme developed for Electromagnetic Fi
 It's a 40-45 minute chiptune dance fitness workout approachable for beginners, with options for experienced exercisers - you don't have to think of yourself as fit, or a dancer, to enjoy Synthercise!
 
 
-## Tracks - Unit 1
+## Dance Tracks - Unit 1
 
 This set has a focus heavy on high-energy 90s numbers. The choice is driven by work I could find that's not DRM-encumbered. MP3s of most of the retro tracks were provided by the lovely [Raxlen Slice](https://www.youtube.com/c/RaxlenSlice), the rest are plundered from the [music archives of demozoo](https://demozoo.org/music/)
 
@@ -60,6 +60,15 @@ Finest nu-disco pop with combo move borrowed from the music video
 [Demozoo - Steel / Genesis Project](https://demozoo.org/music/200368/)
 
 A cooldown track with stretches for different muscle groups 
+
+## Unplugged 
+
+Set of pilates / gi gong / yoga / iaido warmup exercises designed to counteract the posture effects of doing too much of other specific things. One day these might gain a timing soundtrack
+
+[Unplugged: Tech Neck](Unplugged/Tech_Neck.md) antidote to spending too much of one's life hyperfocused over a small screen or a keyboard. No soundtrack at present, and a work in progress
+
+[Unplugged: Hip It](Unplugged/Hip_it.md) antidote to spending too much of one's life doing repetitive weight-lifting exercises and/or playing videogames, resulting in a lack of hip motion 
+
 
 ## Contribution and Reuse
 
