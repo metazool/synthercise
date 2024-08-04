@@ -48,7 +48,7 @@ Yoga poses that should particularly address tech neck. Use a yoga mat for these 
 
 #### Vinyasa flow 
 
-Basic yoga combo move to build variations on:
+Basic yoga combo move to build variations on. See [Hip It](Hip_It.md) for a series of hip-opening flows building on this.
 
 * start in mountain pose, or "extended mountain" with arms raised overhead, palms together. 
 * "Forward fold", arms hang towards the floor, knees slightly bent is ok. 
