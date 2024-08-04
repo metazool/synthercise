@@ -67,7 +67,7 @@ Set of pilates / gi gong / yoga / iaido warmup exercises designed to counteract 
 
 [Unplugged: Tech Neck](Unplugged/Tech_Neck.md) antidote to spending too much of one's life hyperfocused over a small screen or a keyboard. No soundtrack at present, and a work in progress
 
-[Unplugged: Hip It](Unplugged/Hip_it.md) antidote to spending too much of one's life doing repetitive weight-lifting exercises and/or playing videogames, resulting in a lack of hip motion 
+[Unplugged: Hip It](Unplugged/Hip_It.md) antidote to spending too much of one's life doing repetitive weight-lifting exercises and/or playing videogames, resulting in a lack of hip motion 
 
 
 ## Contribution and Reuse
