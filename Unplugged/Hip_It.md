@@ -29,19 +29,19 @@ _This is an initial draft and i'll extend or correct it with any good tips glean
 * Forward fold again, then step one leg back into a _lunge_ (step quite far back). Keep chest raised.
 * Step the other leg back into "downward dog" (body is in a v-shape, hips upwards, ribs pulled downwards, shoulderblades down and back. 
 
-* Raise one leg, pointing it upwards as far as you can, no further than than (three-legged dog)
+* Raise one leg, pointing it upwards as far as you can, then probably further than that (three-legged dog)
 
-* Bend the knee on the extended leg, and tilt it outwards at the hip (about 30 degrees. Rotate outwards to inwards three times, then inwards to outwards, and return to centre.
+* Bend the knee on the extended leg, and tilt it outwards at the hip (about 30 degrees). Rotate the knee from the hip outwards to inwards three times, then inwards to outwards, then return to centre.
 
 * Press hips and shoulders forwards, your chest is out in front of your hands and back is arched, making a sort of aerial bow shape
 
 * Press backwards and lower the leg, into downward dog (hips upwards, belly sucked in, shoulders down and back, ribs pulling upwards towards shoulders
 
-* Shift weight forward so you're in a plank (arms straight, hands under shoulders, toes tucked, core engaged). 
+* Shift weight forward so you're in a plank (arms straight, hands under shoulders, toes tucked, core engaged). The correctness of your plank position shows you where your feet should be placed for the lunge then downward dog, shouldn't need to move once connected to the floor
 
-* Slowly fold in elbows and head towards the floor (like a tricep pushup in reverse) 
+* Slowly fold in elbows and head towards the floor (like a tricep pushup in reverse - "chataranga")
 
-* Untuck toes, straighten arms, hips still pressed down into "up dog" (definitely a back bend). Option here is "cobra" - instead of straightening arms, bend so elbows are 90 degrees, push upper chest upwards. Look upwards
+* Untuck toes, straighten arms, hips still pressed down into "up dog" (definitely a back bend). Beginner option here is "cobra" - instead of straightening arms, bend so elbows are 90 degrees, push upper chest upwards. Look upwards
 
 * From here, reverse the flow: tuck toes, back to downward dog, foot between hands "with control" back to lunge, forward fold, flat back extend, forward fold, up to extended mountain, repeat other side
 
@@ -49,10 +49,10 @@ _This is an initial draft and i'll extend or correct it with any good tips glean
 
 Same as Set 1 except instead of moving from three-legged dog into downward dog, do this:
 
-* Pull knee in towards chest
-* Turn knee outwards, sole of foot facing opposite direction, slowly lower hips towards ground. As a basis your heel is sort of tucked in towards the groin at this stage, the eventual aim for more hip stretch is to get it higher up, towards the ribcage
+* Pull knee on upwards-pointing leg in towards chest
+* Turn that knee outwards via the hip, sole of foot facing opposite direction, and slowly lower hips towards ground. As a basis your heel ends up sort of tucked in towards the groin at this stage, the eventual aim for more hip stretch is to get the heel higher up, towards the ribcage
 * Sink lower half of the body forward, fold over the bent knee, stretch arms forward to where they are comfortable ("pigeon pose")
-* Option here that not everyone likes is to lean backwards, grasp the top of your ankle, sort of floor-based bow pose, it can go further but i don't advise it
+* Option here that not everyone likes is to lean backwards, grasp the top of your ankle, sort of floor-based bow pose, it can go further but i neither enjoy nor advise it
 * Back into downward dog and reverse the flow
 
 ### Set 3
@@ -61,7 +61,7 @@ Classical standing stances, Set 1 up to moving from three-legged dog to downward
 
 * Pull knee in towards chest, "with control" bring foot between hands, back to lunge, chest upwards, look upwards
 * From lunge, lift into Warrior 1 (front knee above ankle, back leg straight or knee slightly bent. Arms lifted upwards, hips facing forwards, palms facing one another
-* Turn upper torso 90* and stretch arms out ar shoulder level. Hips should now face the same way as your chest, e.g. both are sideways on (Warrior 2). Look towards the hand on the bent leg side
+* Turn upper torso 90* and stretch arms out at shoulder height. Hips should now face the same way as your chest, e.g. both are sideways on (Warrior 2). Look towards the hand on the bent leg side
 * Turn the palm on the bent leg side upwards and fold at the elbow over your head. Press the opposite arm forward at the same sort of angle. Lean backward, look upward, breathe
 * Return to centre, face forwards, lean forwards, back to lunge
 
