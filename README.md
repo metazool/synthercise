@@ -1,3 +1,5 @@
+_This project has [moved to Codeberg](https://codeberg.org/zool/Synthercise), any new choreography and tracks for 2025 are there_
+
 # Get ready to Synthercise!
 
 Synthercise is an 8-bit dance fitness programme developed for Electromagnetic Field.
